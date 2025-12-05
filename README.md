@@ -106,9 +106,8 @@ Example Output
   
 ----------------------------------------------------------
 Installation
-git clone https://github.com/<your-name>/F1-Strategy-Simulator.git
+git clone https://github.com/JackLydon23/F1-Strategy-Simulator.git
 cd F1-Strategy-Simulator
-pip install -r requirements.txt
 
 Requirements:
 numpy
